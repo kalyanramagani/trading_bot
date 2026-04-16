@@ -48,7 +48,7 @@ trading_bot/
 ### 1. Clone the repository
 
 ```
-git clone <your-repo-link>
+git clone <https://github.com/kalyanramagani/Trading_bot/tree/main>
 cd trading_bot
 ```
 
